@@ -1,2 +1,1 @@
-# hoobank
- 
+Hoobank has been created with a minimalistic eye, giving birth to a modern website advertising Hoobank, an ambitious and ever-growing bank trying to reach clients everywhere in the world. This application has been created using React and Tailwind, while using Vite to create an organized and fast work environment
